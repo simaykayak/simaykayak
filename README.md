@@ -24,4 +24,6 @@ Through my coursework at FIT CTU, I have gained hands-on experience with:
 - C Memory Profile Inspector
 
 ## 📊 GitHub Stats
-![Simay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaykayak&show_icons=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=simaykayak&show_icons=true&theme=github_dark)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simaykayak&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
