@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Simay 👋 
+## 👩‍💻 About Me
+Software Engineering student at FIT CTU in Prague.  
+Currently learning Git, GitHub and C programming.  
+I enjoy learning new technologies and continuously improving my software development skills by building projects.
 
-<!--
-**simaykayak/simaykayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Academic Experience
+Through my coursework at FIT CTU, I have gained hands-on experience with:
+- **Unix-like Operating System** - Linux & Unix Shell
+- **Computer Structures and Architectures** - MPLAB X IDE, Logisim, Assembly Language (Basics)
+- **Database Systems** - PostgreSQL, DataGrip
+- **Computer Networks** - Cisco Packet Tracer, Wireshark
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![C](https://skillicons.dev/icons?i=c)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Mini Bank and Geometry Calculator  
+- C Memory Profile Inspector
+
+## 📊 GitHub Stats
+![Simay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simaykayak&show_icons=true)
