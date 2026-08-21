@@ -20,7 +20,7 @@ Through my coursework at FIT CTU, I have gained hands-on experience with:
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ## 🚀 Featured Projects
-- Mini Bank and Geometry Calculator  
+- File-Based Mini Database System
 - C Memory Profile Inspector
 
 ## 📊 GitHub Stats
