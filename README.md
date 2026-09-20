@@ -1,7 +1,7 @@
 # Hi, I'm Simay 👋 
 ## 👩‍💻 About Me
 Software Engineering student at FIT CTU in Prague.  
-Currently learning Git, GitHub and C programming.  
+Currently learning C programming and C++.  
 I enjoy learning new technologies and continuously improving my software development skills by building projects.
 
 ## 📚 Academic Experience
@@ -18,10 +18,6 @@ Through my coursework at FIT CTU, I have gained hands-on experience with:
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-## 🚀 Featured Projects
-- File-Based Mini Database System
-- C Memory Profile Inspector
 
 ## 📊 GitHub Stats
 ![Stats](https://github-stats-extended.vercel.app/api?username=simaykayak&show_icons=true&theme=github_dark)
