@@ -13,6 +13,7 @@ Through my coursework at FIT CTU, I have gained hands-on experience with:
 
 ## 🛠️ Tech Stack
 ![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
